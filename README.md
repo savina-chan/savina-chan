@@ -10,6 +10,6 @@ Welcome to my GitHub profile!
 
 ## Contact Me
 
-- 📧 Feel free to reach me at [savina.chan@nyu.edu](mailto:savina.chan@nyu.edu).
+- 📧 Feel free to reach me at [sc8881@nyu.edu](mailto:sc8881@nyu.edu).
 - 🌐 Visit my personal page: [savina-chan.github.io](https://savina-chan.github.io).
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/savina-chan).
