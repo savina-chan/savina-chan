@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 
 - 👩🏻‍💻 I’m a passionate full-stack developer.
 - 📚 Currently studying Computer Science at New York University.
-- 💼 Actively looking for full-time opportunities in software development.
 
 ## Contact Me
 
